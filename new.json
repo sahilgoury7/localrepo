@@ -1,0 +1,20 @@
+{
+  "student": {
+    "id": 101,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "courses": [
+      {
+        "courseId": "ENG101",
+        "title": "English Grammar",
+        "credits": 3
+      },
+      {
+        "courseId": "CS201",
+        "title": "Introduction to Programming",
+        "credits": 4
+      }
+    ],
+    "isActive": true
+  }
+}
